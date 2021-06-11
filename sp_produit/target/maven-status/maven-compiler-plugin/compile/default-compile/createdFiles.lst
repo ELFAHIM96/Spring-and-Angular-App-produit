@@ -1,0 +1,5 @@
+org\sid\sp_produit\ProduitRestService.class
+org\sid\sp_produit\entities\Produit.class
+org\sid\sp_produit\entities\ProduitProjection.class
+org\sid\sp_produit\SpProduitApplication.class
+org\sid\sp_produit\dao\ProduitRepository.class
